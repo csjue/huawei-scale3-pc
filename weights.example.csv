@@ -1,0 +1,3 @@
+﻿logged_at,measured_at,weight_kg,fat_percent,heart_rate,impedance_ohm,live,address,water_percent,protein_percent,skeletal_muscle_kg,skeletal_muscle_percent,bone_mineral_kg,lean_body_mass_kg,bmr_kcal,visceral_fat_level,algo_fat_percent,profile
+2026-01-01T08:00:03,2026-01-01 08:00:02,86.25,26.8,68,432.0,1,AA:BB:CC:DD:EE:FF,49.8,19.7,34.62,40.1,3.27,63.14,1842,12,26.8,M/30/175
+2026-01-02T08:02:11,2026-01-02 08:02:10,86.10,26.6,67,428.5,1,AA:BB:CC:DD:EE:FF,50.0,19.8,34.70,40.3,3.28,63.21,1844,12,26.6,M/30/175

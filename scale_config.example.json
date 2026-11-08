@@ -1,0 +1,10 @@
+{
+  "_comment": "Copy to scale_config.json and fill in your own values. scale_config.json is gitignored. cak/c1/c2 are 32-hex-char (16 byte) protocol secrets that you must obtain yourself; this project does not ship them. See README.md.",
+  "address": "AA:BB:CC:DD:EE:FF",
+  "age": 30,
+  "height_cm": 175.0,
+  "female": false,
+  "cak": "",
+  "c1": "",
+  "c2": ""
+}

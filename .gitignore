@@ -1,0 +1,35 @@
+# ---- Personal measurement data: NEVER commit ----
+weights.csv
+advert.json
+advert_log.jsonl
+scan_log.jsonl
+gatt_dump.json
+watch.log
+*.csv
+!weights.example.csv
+*.csv.tmp
+*.jsonl
+
+# ---- Local device config (contains YOUR scale MAC) ----
+scale_config.json
+run_local.bat
+.env
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+build/
+dist/
+
+# ---- Editor / OS ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

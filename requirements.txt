@@ -1,0 +1,7 @@
+# Runtime
+bleak>=1.0,<2
+cryptography>=42
+
+# Development / offline tests
+pytest>=8
+pytest-asyncio>=0.23
